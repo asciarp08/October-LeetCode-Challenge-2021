@@ -1,3 +1,8 @@
+/**
+Time = O(n+m)
+Space = O(m)
+**/
+
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
